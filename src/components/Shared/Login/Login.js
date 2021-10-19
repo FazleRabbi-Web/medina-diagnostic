@@ -35,10 +35,10 @@ const Login = () => {
           </div>
           <h5 className="text-danger mt-2">{user.email ? "" : `${error}`}</h5>
           <div className="from-group mt-5">
-            <input type="submit" value="Login" />
+            <input className='bg-warning border-0 rounded px-3 py-1 fw-bold' type="submit" value="Login" />
           </div>
           <div className="from-group mt-5">
-            <button onClick={googleSignIn} className="btn btn-warning">
+            <button onClick={googleSignIn} className="btn fw-bold btn-warning">
               Google Sign in
             </button>
             <br />

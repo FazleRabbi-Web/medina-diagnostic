@@ -54,20 +54,20 @@ const Navbar = () => {
               )}
               {user.email ? (
                 <Link to="/login">
-                  <button onClick={logOut} className="btn btn-warning me-2">
+                  <button onClick={logOut} className="btn btn-warning me-2 fw-bold">
                     Log-out
                   </button>
                 </Link>
               ) : (
                 <Link to="/login">
-                  <button className="btn btn-warning me-2">Log In</button>
+                  <button className="btn btn-warning me-2 fw-bold">Log In</button>
                 </Link>
               )}
               {user.email ? (
                 ""
               ) : (
                 <Link to="/register">
-                  <button className="btn btn-success me-2">Register</button>
+                  <button className="btn btn-success me-2 fw-bold">Register</button>
                 </Link>
               )}
             </div>

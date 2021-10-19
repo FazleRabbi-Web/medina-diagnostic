@@ -51,7 +51,7 @@ const Register = () => {
           </div>
           <h5 className="text-danger mt-2">{user.email ? "" : `${error}`}</h5>
           <div className="from-group mt-5">
-            <input type="submit" value="Register" />
+            <input className='bg-success text-white border-0 rounded px-3 py-1 fw-bold' type="submit" value="Register" />
             <br />
             <br />
             <Link className="fw-bold" to="/login">
