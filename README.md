@@ -1,6 +1,6 @@
 # Medina Diagnostic Center
 
-[Madina Diagnostic](https://medinadiagnosticbyfazlerabbi.netlify.app/).
+[Madina Diagnostic](https://medinadiagnosticbyfazlerabbi.netlify.app/) Visit us.
 
 ## This is a Diagnostic center website.
     #^ Here will you get best health service. 
