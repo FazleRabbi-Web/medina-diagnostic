@@ -1,0 +1,44 @@
+[
+    {
+       "_id":"3454345rdfasf",
+       "name":"PEDIATRICS",
+       "imageURL":"https://ld-wt73.template-help.com/wt_prod-20176/images/services-03-870x440.jpg",
+       "price":"$342",
+       "description":"Pediatrics is the branch of medicine dealing with the health and medical care of infants, children, and adolescents from birth up to the age of 18. The word “paediatrics” means “healer of children”; they are derived from two Greek words: (pais = child) and (iatros = doctor or healer). Paediatrics is a relatively new medical specialty, developing only in the mid-19th century. Abraham Jacobi (1830–1919) is known as the father of paediatrics."
+    },
+    {
+       "_id":"56345623rted",
+       "name":"Diagnostic Imaging",
+       "imageURL":"https://cdn.discordapp.com/attachments/899735518680596520/899735939478343700/home-06-320x320.jpg",
+       "price":"$342",
+       "description":"hasellus rhoncus felis ut justo laoreet, ac suscipit purus sagittis. Nulla volutpat, leo nec tempor tincidunt, metus sem sodales massa, nec ultricies dui justo a elit. Sed libero risus, vestibulum in purus ac, viverra sollicitudin massa. Sed tristique est quis urna sodales congue. In sit amet pretium erat, et suscipit mauris. Morbi nec tempor risus. Nullam tempus elementum lacus, id tincidunt dolor blandit non. Praesent bibendum ac diam varius consequat."
+    },
+    {
+       "_id":"452rfgs4354",
+       "name":"Ultrasound Diagnostics",
+       "imageURL":"https://cdn.discordapp.com/attachments/899735518680596520/899735943173521408/home-02-320x320.jpg",
+       "price":"$345",
+       "description":"Vivamus sed laoreet neque. Suspendisse vel eros nibh. Suspendisse potenti. Sed non viverra orci, eu volutpat diam.Fusce consequat pretium augue, scelerisque maximus eros commodo vel. Mauris vitae nisl quis odio semper rutrum vel quis est. Curabitur ac luctus metus.Cras fermentum justo massa, at rhoncus risus vulputate ut. Quisque molestie varius lacus.Donec mattis nisi nisi, a aliquam mi pulvinar sit amet. Mauris at scelerisque lectus. Sed tincidunt malesuada vestibulum. Proin ante diam, ultrices eu."
+    },
+    {
+       "_id":"63563dfsgsd345",
+       "name":"X-ray diagnostics",
+       "imageURL":"https://ld-wt73.template-help.com/wt_prod-20176/images/services-04-870x440.jpg",
+       "price":"$234",
+       "description":"Aenean ac ex nunc. Phasellus tincidunt tempus enim. Pellentesque habitant morbi tristique senectus et.Sed elementum volutpat libero at pellentesque. Vestibulum interdum, dolor eget tristique dignissim."
+    },
+    {
+       "_id":"37647365ghsdh45",
+       "name":"Laboratory Services",
+       "imageURL":"https://cdn.discordapp.com/attachments/899735518680596520/899735935867031613/home-04-320x320.jpg",
+       "price":"$434",
+       "description":"Aenean ac ex nunc. Phasellus tincidunt tempus enim. Sed elementum volutpat libero at pellentesque. Vestibulum interdum, dolor eget tristique dignissim, augue diam viverra ex, non malesuada ipsum mauris volutpat nibh.Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam efficitur accumsan condimentum. Suspendisse non leo ut nulla maximus blandit at ac ante. Donec volutpat sit amet elit non ultricies.Nulla a imperdiet odio. Duis interdum eget dui id elementum. Duis quis ornare nunc. Integer at volutpat augue. Donec ornare molestie elit eget imperdiet. Mauris vel felis ac neque egestas condimentum at consectetur turpis."
+    },
+    {
+       "_id":"37647365ghsdh45",
+       "name":"Pregnancy Services",
+       "imageURL":"https://ld-wt73.template-help.com/wt_prod-20176/images/services-01-870x440.jpg",
+       "price":"$434",
+       "description":"Etiam efficitur accumsan condimentum. Suspendisse non leo ut nulla maximus blandit at ac ante. Donec volutpat sit amet elit non ultricies. Nulla a imperdiet odio.Donec ornare molestie elit eget imperdiet. Vivamus sed laoreet neque.tincidunt sit amet tellus mauris vitae nisl quis odio semper rutrum vel quis est. Curabitur ac."
+    }
+ ]
