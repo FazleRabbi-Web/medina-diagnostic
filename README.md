@@ -1,6 +1,6 @@
 # Medina Diagnostic Center
 
-This project was bootstrapped with [Madina Diagnostic](https://medinadiagnosticbyfazlerabbi.netlify.app/).
+[Madina Diagnostic](https://medinadiagnosticbyfazlerabbi.netlify.app/).
 
 ## This is a Diagnostic center website.
     #^ Here will you get best health service. 
